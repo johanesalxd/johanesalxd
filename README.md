@@ -78,11 +78,11 @@ Comprehensive solution for Spark integration with BigLake Metastore and Apache I
 **Tech Stack**: Apache Spark, BigLake, Apache Iceberg, Dataproc, Docker, Jupyter
 **Key Features**: Hybrid cloud architecture, Iceberg table management, BigQuery integration, Multiple deployment options
 
-#### **[cf-data-generator-gemini](https://github.com/johanesalxd/cf-data-generator-gemini)** - AI-Powered Data Generation
-Cloud Run Functions-based data generator leveraging Gemini AI for creating realistic test data based on JSON schemas. Supports parallel processing and data deduplication.
+#### **[bigquery-antipattern-recognition](https://github.com/johanesalxd/bigquery-antipattern-recognition)** - BigQuery SQL Optimization Tool
+Enhanced fork of Google Cloud Platform's utility for identifying and rewriting common anti-patterns in BigQuery SQL syntax. Added advanced features including query grouping functionality and clustering optimization patterns to improve query performance analysis.
 
-**Tech Stack**: Go, Gemini AI, Cloud Run Functions, JSON Schema
-**Key Features**: AI-driven data generation, Schema-based validation, Parallel processing, Cloud-native deployment
+**Tech Stack**: Java, BigQuery, Maven, Docker, Cloud Run, Vertex AI
+**Key Features**: 15+ antipattern detections, AI-powered SQL rewriting, Query grouping analysis, Remote UDF deployment, CI/CD integration
 
 #### **[cf-bq-rf-gemini](https://github.com/johanesalxd/cf-bq-rf-gemini)** - BigQuery AI Integration
 BigQuery Remote Function implementation that integrates Gemini AI directly into SQL queries, enabling AI-powered data processing at scale within BigQuery workflows.
