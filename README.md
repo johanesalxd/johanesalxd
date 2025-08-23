@@ -18,11 +18,25 @@ I'm actively exploring the intersection of data engineering and AI agents, devel
 
 ---
 
-## ☁️ Cloud Architecture Expertise
+## 🎤 Community Contributions & Speaking
 
-- **Google Cloud Platform** (Current): Specialized in data platforms, serverless architectures, and AI/ML services
-- **Microsoft Azure** (Previous): Enterprise cloud solutions and data platform design
-- **Serverless-First Approach**: Designing scalable, cost-effective cloud-native solutions
+As a thought leader in data analytics and AI, I actively contribute to the developer community through speaking engagements and knowledge sharing.
+
+### Recent Speaking Engagements
+
+#### **[Google Cloud Next Extended Singapore 2025](https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-cloud-next-extended-singapore-2025/cohost-gdg-singapore)** - June 14, 2025
+**Talk**: "Metadata: The Key to Unlocking Data Analytics in the Agentic Era"
+
+Presented insights on Google Cloud's latest data analytics innovations from Next '25, focusing on AI integration with BigQuery and the crucial role of metadata in enabling AI agents. Covered specialized AI agents for various user roles, AI-assisted notebooks, and the BigQuery AI Query Engine's capabilities with both structured and unstructured data.
+
+**Key Topics**: BigQuery metadata, AI agents, data governance, query optimization, autonomous data processing
+
+#### **[GDG Monthly Meetup #10](https://gdg.community.dev/events/details/google-gdg-singapore-presents-gdg-monthly-meetup-10/)** - October 24, 2024
+**Talk**: "Harnessing Real-Time Insights: LLM Inference for Streaming Data with SQL"
+
+Explored practical techniques for performing real-time inference on streaming data using large language models (LLMs) and SQL. Demonstrated seamless integration of LLMs into existing application workflows, enabling real-time insights, predictions, and classifications directly within familiar SQL environments.
+
+**Key Topics**: Real-time data processing, LLM integration, streaming analytics, SQL-based AI inference
 
 ---
 
@@ -110,6 +124,14 @@ Complete real-time data pipeline solution from Pub/Sub to BigQuery using Cloud R
 - **Microsoft Azure**: Enterprise cloud solutions and data platforms
 - **Serverless Computing**: Cloud Functions, Cloud Run, event-driven architectures
 - **Infrastructure as Code**: Terraform, deployment automation
+
+---
+
+## ☁️ Cloud Architecture Expertise
+
+- **Google Cloud Platform** (Current): Specialized in data platforms, serverless architectures, and AI/ML services
+- **Microsoft Azure** (Previous): Enterprise cloud solutions and data platform design
+- **Serverless-First Approach**: Designing scalable, cost-effective cloud-native solutions
 
 ---
 
