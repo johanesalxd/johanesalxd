@@ -173,8 +173,10 @@ Complete real-time data pipeline solution from Pub/Sub to BigQuery using Cloud R
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanesalxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanesalxd&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johanesalxd&theme=tokyonight" alt="GitHub Profile Details"/>
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johanesalxd&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johanesalxd&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
