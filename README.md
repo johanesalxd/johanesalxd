@@ -145,6 +145,12 @@ Complete real-time data pipeline solution from Pub/Sub to BigQuery using Cloud R
 **Tech Stack**: Go, Pub/Sub, BigQuery, Cloud Run Functions, Dataflow
 **Key Features**: Real-time processing, Automated data generation, Partitioned tables, End-to-end pipeline
 
+#### **[dataflow-pubsub-to-bq-examples-py](https://github.com/johanesalxd/dataflow-pubsub-to-bq-examples-py)** - Pub/Sub to BigQuery Streaming
+Python streaming pipeline from Pub/Sub to BigQuery using BigQuery Storage Write API. Features micro-batching, Pub/Sub metadata capture, and partitioned tables with DirectRunner and DataflowRunner V2 support.
+
+**Tech Stack**: Python, Apache Beam, Dataflow, Pub/Sub, BigQuery
+**Key Features**: Storage Write API, Micro-batching, Pub/Sub metadata capture, Runner V2 support
+
 ---
 
 ## 💼 Core Competencies
