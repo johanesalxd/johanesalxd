@@ -81,12 +81,6 @@ A comprehensive tutorial for deploying MCP (Model Context Protocol) servers to G
 **Tech Stack**: Python, FastMCP, Google Cloud Run, Docker
 **Key Features**: MCP server implementation, Cloud Run deployment, Interactive AI tools, RESTful API
 
-#### **[gemini-cli-1c](https://github.com/johanesalxd/gemini-cli-1c)** - One-Click Gemini CLI Setup
-Automated installation script for complete development environment setup with NVM, Node.js, and Google's Gemini CLI. Streamlines developer onboarding for AI-powered workflows.
-
-**Tech Stack**: Shell, Node.js, NVM, Gemini CLI
-**Key Features**: One-command installation, Environment configuration, Developer productivity tools
-
 ### 📊 Data Engineering & Analytics
 
 #### **[mdm-gcp](https://github.com/johanesalxd/mdm-gcp)** - Master Data Management with AI
@@ -102,10 +96,16 @@ Comprehensive BigQuery Data Clean Room implementation with Analytics Hub integra
 **Key Features**: Privacy-preserving analytics, BQML collaborative ML, Analytics Hub automation, Data exchange patterns
 
 #### **[random-stuff](https://github.com/johanesalxd/random-stuff)** - BigQuery Analytics Toolkit
-Collection of production-ready BigQuery tools and demos including FinOps optimization, geospatial routing, Places Insights competitive analysis, security (RLS/CLS with Dataform), Firebase Analytics integration, dbt migration agents, and AI coding standards.
+Production-ready BigQuery tools and demos covering advanced analytics patterns. Includes FinOps cost optimization, geospatial routing, Places Insights competitive analysis, RLS/CLS security with Dataform, Firebase Analytics integration, Streaming CDC pipelines, and dbt migration workflows.
 
 **Tech Stack**: Python, BigQuery, Dataform, dbt, PySpark, Jupyter
-**Key Features**: FinOps cookbook, Geospatial analysis, Places Insights, RLS/CLS security, dbt migration toolkit
+**Key Features**: FinOps cookbook, Geospatial analysis, Places Insights, RLS/CLS security, Streaming CDC, dbt+Spark+BQ, Firebase Analytics
+
+#### **[random-stuff/agent_stuff](https://github.com/johanesalxd/random-stuff/tree/main/agent_stuff)** - AI Agent Configs & Guides
+Curated collection of AI agent configurations, coding standards, and workspace architecture guides for multi-model agentic workflows. Includes OpenClaw workspace architecture guides for Anthropic and Gemini, Google-style coding standards for AI-generated code, BigQuery data science agent prompt libraries, and opencode configuration scripts.
+
+**Tech Stack**: Python, OpenClaw, Anthropic Claude, Gemini, Google Cloud
+**Key Features**: OpenClaw workspace architecture guides (Anthropic + Gemini), Google-style AI coding standards (Python/Go/Java), BQ agent prompt library, opencode config + sync scripts, dbt migration agents
 
 #### **[spark-hybrid-compute](https://github.com/johanesalxd/spark-hybrid-compute)** - Advanced Spark Integration
 Comprehensive solution for Spark integration with BigLake Metastore and Apache Iceberg, supporting both Dataproc and Docker-based deployments. Demonstrates hybrid cloud computing patterns for modern data lakes.
@@ -150,6 +150,26 @@ Python streaming pipeline from Pub/Sub to BigQuery using BigQuery Storage Write 
 
 **Tech Stack**: Python, Apache Beam, Dataflow, Pub/Sub, BigQuery
 **Key Features**: Storage Write API, Micro-batching, Pub/Sub metadata capture, Runner V2 support
+
+#### **[dataflow-pubsub-perf-test](https://github.com/johanesalxd/dataflow-pubsub-perf-test)** - Dataflow/BigQuery Performance Testing
+Test infrastructure for diagnosing the Dataflow/BigQuery "Noisy Neighbor" throughput degradation pattern. Six rounds of testing across Pub/Sub and Kafka sources (Python + Java SDKs) — 2.2 billion rows, 2.4 TB, 901k rows/sec peak, zero errors. Confirmed linear scaling and identified a shared Kafka consumer group as the root cause of production degradation. Exceeded the BigQuery Storage Write API regional quota and sustained it.
+
+**Tech Stack**: Java, Python, Apache Beam, Dataflow, Pub/Sub, Kafka (Google Managed), BigQuery Storage Write API
+**Key Features**: 2.2B rows / 2.4 TB scale testing, 901k rows/sec peak throughput, Noisy Neighbor root-cause diagnosis, Multi-source testing (Pub/Sub + Kafka), Python + Java SDK coverage
+
+### 🧪 AI Experiments & Tools
+
+#### **[gemini-cli-1c](https://github.com/johanesalxd/gemini-cli-1c)** - One-Click Gemini CLI Setup
+Automated one-command installation script for a complete development environment with NVM, Node.js, and Google's Gemini CLI. Streamlines developer onboarding for AI-powered workflows.
+
+**Tech Stack**: Shell, Node.js, NVM, Gemini CLI
+**Key Features**: One-command installation, Environment configuration, Developer productivity tools
+
+#### **[vision-sandbox](https://github.com/johanesalxd/vision-sandbox)** - Agentic Vision Tool
+Agentic vision tool built as an OpenClaw skill, leveraging Gemini's native code execution sandbox for spatial grounding, visual math, and UI auditing tasks. Demonstrates OpenClaw skill architecture for vision-based agentic workflows.
+
+**Tech Stack**: Python, Gemini, Google Cloud, OpenClaw
+**Key Features**: Agentic vision analysis, Spatial grounding, Visual math, UI auditing, OpenClaw skill architecture
 
 ---
 
