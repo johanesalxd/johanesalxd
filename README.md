@@ -1,8 +1,6 @@
 # Hi there, I'm Johanes Alexander 👋
 
-I'm an experienced **Data Architect & AI Agent Developer** with a passion for designing end-to-end data solutions that drive business value. I specialize in bridging traditional data engineering with cutting-edge AI agents, combining deep expertise in cloud architecture, data analytics, and machine learning engineering.
-
-Currently diving deep into **AI/Agentic systems**, particularly data agents that leverage my extensive background in data engineering and cloud solutions.
+I'm a **Data & AI Architect** with deep specialization in agentic AI systems and large-scale data platforms. I design end-to-end solutions at the intersection of data engineering and autonomous AI — building multi-agent architectures, real-time pipelines, and cloud-native systems that scale.
 
 ---
 
