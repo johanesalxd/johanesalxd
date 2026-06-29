@@ -210,6 +210,7 @@ Agentic vision tool built as an OpenClaw skill, leveraging Gemini's native code 
 - **Website:** [johanesalxd.cc](https://johanesalxd.cc)
 - **X (Twitter):** [@johanesalxd](https://x.com/johanesalxd)
 - **LinkedIn:** [johanesalxd](https://www.linkedin.com/in/johanesalxd)
+- **PCPartPicker:** [vaderx8498](https://pcpartpicker.com/user/vaderx8498/builds/)
 
 ---
 
